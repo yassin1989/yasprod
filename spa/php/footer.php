@@ -1,0 +1,1 @@
+<footer class="footer text-center"> 2018 &copy; La Badira IT Management Team </footer>
